@@ -1,3 +1,3 @@
 # POSTS RECOMMENDATION
 
-This project recommends posts to users based on contextual filtering and user based collaborative filtering
+This project recommends posts to users based on content based recommendation and user based collaborative filtering
